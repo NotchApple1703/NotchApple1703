@@ -16,6 +16,6 @@ Skills: Batch Script / Visual Basic Script / Python / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=notchapple1703&count_private=true&show_icons=true&theme=tokyonight&border_radius=25&hide_border=true&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NotchApple1703)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=notchapple1703&theme=tokyonight&hide_border=true&fire=3777DD&background=1A1B27)
 
 ![GitHub metrics](https://metrics.lecoq.io/NotchApple1703)
