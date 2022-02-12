@@ -14,7 +14,7 @@ Skills: Batch Script / Visual Basic Script / Python / HTML
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NotchApple1703)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Notchapple1703)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotchApple1703&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daominh89&count_private=true&show_icons=true&theme=tokyonight&border_radius=25&hide_border=true&count_private=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NotchApple1703)
 
