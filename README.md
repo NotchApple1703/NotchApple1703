@@ -20,4 +20,4 @@ Skills: Batch Script / Visual Basic Script / Python / HTML
 
 ![Recent spotify played](https://spotify-recently-played-readme.vercel.app/api?user=3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH)](https://open.spotify.com/user/3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH)
 
-![Spotify](https://daominh89-spotify.vercel.app/api/spotify/?background_color=212121)](https://spotify-github-profile.vercel.app/api/view?uid=3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH&redirect=true)
+![Spotify](https://spotify.vercel.app/api/spotify/?background_color=212121)](https://spotify-github-profile.vercel.app/api/view?uid=3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH&redirect=true)
