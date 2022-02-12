@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Notch Apple</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notchapple1703&label=Profile%20views&color=0e75b6&style=flat" alt="notchapple1703" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notchapple1703" alt="notchapple1703" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notchapple1703" alt="notchapple1703" /></a> </p>
 
 - 🔭 I’m currently working on **nothing**
 
