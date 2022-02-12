@@ -3,14 +3,14 @@
 
 Skills: Batch Script / Visual Basic Script / Python / HTML
 
-- 🔭 I’m currently working on nothing ¯\_(ツ)_/¯
-- 🌱 I’m currently learning nothing ¯\_(ツ)_/¯
-- 👯 I’m looking to collaborate on nothing ¯\_(ツ)_/¯
-- 🤔 I’m looking for help with nothing ¯\_(ツ)_/¯
-- 💬 Ask me nothing ¯\_(ツ)_/¯
-- 📫 How to reach me: nothing ¯\_(ツ)_/¯
-- 😄 Pronouns: nothing ¯\_(ツ)_/¯
-- ⚡ Fun fact: Táo bị ngáo ¯\_(ツ)_/¯
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning nothing
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me nothing
+- 📫 How to reach me: nothing
+- 😄 Pronouns: nothing
+- ⚡ Fun fact: Táo bị ngáo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NotchApple1703)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Notchapple1703)
 
