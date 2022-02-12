@@ -17,12 +17,3 @@ Skills: Batch Script / Visual Basic Script / Python / HTML
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=notchapple1703&count_private=true&show_icons=true&theme=tokyonight&border_radius=25&hide_border=true&count_private=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=notchapple1703&theme=tokyonight&hide_border=true&fire=3777DD&background=1A1B27)
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
-&nbsp; <br> [![Spotify](https://notchapple1703.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH)
-
-  </td>
-  <td width="50%">
