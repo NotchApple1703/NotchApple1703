@@ -18,4 +18,6 @@ Skills: Batch Script / Visual Basic Script / Python / HTML
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=notchapple1703&theme=tokyonight&hide_border=true&fire=3777DD&background=1A1B27)
 
- [![Recent spotify played](https://spotify-recently-played-readme.vercel.app/api?user=3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH)](https://open.spotify.com/user/3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH)
+[![Recent spotify played](https://spotify-recently-played-readme.vercel.app/api?user=3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH)](https://open.spotify.com/user/3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH) <img src="vibing.gif" alt="vibing" width="425" /> 
+
+ [![Spotify](https://daominh89-spotify.vercel.app/api/spotify/?background_color=212121)](https://spotify-github-profile.vercel.app/api/view?uid=3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH&redirect=true) 
