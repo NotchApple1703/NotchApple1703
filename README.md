@@ -22,7 +22,7 @@ Skills: Batch Script / Visual Basic Script / Python / HTML
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH)
+&nbsp; <br> [![Spotify](https://notchapple1703.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3GMMqEWU5bNm14rWuM1vcRBNdNDXRKKnfH)
 
   </td>
   <td width="50%">
