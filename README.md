@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Notch Apple
+### Hi there 👋, I'm Notch Apple
 
 Skills: BatchScript / VBScript / LoliScript / Python
 
