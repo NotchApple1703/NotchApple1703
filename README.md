@@ -13,5 +13,3 @@ Skills: BatchScript / VBScript / LoliScript / Python / HTML
 - ⚡ Fun fact: Táo bị ngáo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=notchapple1703&count_private=true&show_icons=true&theme=tokyonight&border_radius=25&hide_border=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=notchapple1703&count_private=true&show_icons=true&theme=tokyonight&border_radius=25&hide_border=true)
