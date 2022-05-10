@@ -12,6 +12,6 @@ Skills: BatchScript / VBScript / LoliScript / Python / HTML
 - 😄 Pronouns: nothing
 - ⚡ Fun fact: Táo bị ngáo
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=notchapple1703&count_private=true&show_icons=true&theme=tokyonight&border_radius=25&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=notchapple1703&count_private=true&show_icons=true&theme=tokyonight&border_radius=25&hide_border=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=notchapple1703&theme=tokyonight&hide_border=true&fire=3777DD&background=1A1B27)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=notchapple1703&count_private=true&show_icons=true&theme=tokyonight&border_radius=25&hide_border=true)
