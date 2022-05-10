@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Notch Apple
-#### I am 8th grade student
 
-Skills: BatchScript / VBScript / LoliScript / Python / HTML
+Skills: BatchScript / VBScript / LoliScript / Python
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning nothing
