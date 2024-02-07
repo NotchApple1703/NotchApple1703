@@ -1,4 +1,4 @@
-<details>
+<details open>
   <summary>
     <h2 align="center">About me 🤓☝️</h2>
   </summary>
@@ -13,7 +13,7 @@
   ```
 </details>
 
-<details>
+<details open>
   <summary>
     <h2 align="center">My Skills 📖🔍</h2>
   </summary>
@@ -23,7 +23,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>
     <h2 align="center">Github Stats 📈</h2>
   </summary>
