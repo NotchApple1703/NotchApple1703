@@ -19,7 +19,12 @@
   </summary>
 
   <p align="center">
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,powershell,bash,neovim,anaconda,vscode,c,cpp,py,lua,html,css,js,md,flutter,selenium&perline=9"> </a>
+    <h3>- Languages:</h3> 
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=powershell,bash,c,cpp,py,lua,html,css,js"> </a>
+    <h3>- Frameworks and Libraries:</h3>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,selenium"> </a>
+    <h3>- Tools</h3>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,neovim,vscode,anaconda,markdown"> </a>
   </p>
 </details>
 
