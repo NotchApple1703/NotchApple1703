@@ -24,7 +24,7 @@
     <h3>- Frameworks and Libraries:</h3>
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,selenium,fastapi,gtk"> </a>
     <h3>- Tools</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,neovim,vscode,anaconda,markdown"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,neovim,vscode,pycharm,clion,notion,anaconda,markdown"> </a>
   </p>
 </details>
 
