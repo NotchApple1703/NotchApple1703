@@ -37,8 +37,8 @@
 
   <div>
     <p align="center">
-      <a href="https://github.com/NotchApple1703"> <img height="200px" src="https://github-readme-stats-notchapple1703s-projects.vercel.app/api?username=notchapple1703&include_all_commits=true&theme=transparent&show_icons=true"> </a>
-      <a href="https://github.com/NotchApple1703"> <img height="200px" src="https://github-readme-stats-notchapple1703s-projects.vercel.app//api/top-langs/?username=notchapple1703&theme=transparent&layout=donut"> </a>
+      <a href="https://github.com/NotchApple1703"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=notchapple1703&include_all_commits=true&theme=transparent&show_icons=true"> </a>
+      <a href="https://github.com/NotchApple1703"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notchapple1703&theme=transparent&layout=donut"> </a>
     </p>
   </div>
   
