@@ -22,9 +22,9 @@
     <h3>- Languages:</h3> 
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=powershell,bash,c,cpp,py,dart"> </a>
     <h3>- Frameworks and Libraries:</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,selenium,fastapi,gtk,qt"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,selenium,fastapi"> </a>
     <h3>- Tools</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,neovim,vscode,pycharm,clion,notion,anaconda,nix"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,neovim,vscode,pycharm,clion,anaconda"> </a>
     <h3>- Operating Systems</h3>
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows,linux"> </a>
   </p>
