@@ -37,8 +37,8 @@
 
   <div>
     <p align="center">
-      <a href="https://github.com/NotchApple1703"> <img height="200px" src="https://github-readme-stats-notchapple1703-vercel.vercel.app/api?username=notchapple1703&include_all_commits=true&theme=transparent&show_icons=true&hide_border=true&count_private=true"> </a>
-      <a href="https://github.com/NotchApple1703"> <img height="200px" src="https://github-readme-stats-notchapple1703-vercel.vercel.app/api/top-langs/?username=notchapple1703&theme=transparent&layout=donut&show_icon=true&hide_border=true"> </a>
+      <a href="https://github.com/NotchApple1703"> <img height="200px" src="https://github-readme-stats-notchapple1703-vercel.vercel.app/api?username=notchapple1703&include_all_commits=true&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"> </a>
+      <a href="https://github.com/NotchApple1703"> <img height="200px" src="https://github-readme-stats-notchapple1703-vercel.vercel.app/api/top-langs/?username=notchapple1703&theme=transparent&layout=donut&show_icon=true&hide_border=true&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"> </a>
     </p>
   </div>
   
