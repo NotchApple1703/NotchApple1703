@@ -20,11 +20,11 @@
 
   <p align="center">
     <h3>- Languages:</h3> 
-    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=python,rust,c++,dart,typescript"> </a>
+    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=python,rust,cplusplus,dart,typescript"> </a>
     <h3>- Frameworks and Libraries:</h3>
     <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=flutter,slint"> </a>
     <h3>- Tools</h3>
-    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=uv"> </a>
+    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=uv,platformio"> </a>
   </p>
 </details>
 
