@@ -24,7 +24,7 @@
     <h3>- Frameworks and Libraries:</h3>
     <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=flutter,slint"> </a>
     <h3>- Tools</h3>
-    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=uv,platformio"> </a>
+    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=uv,platformio,postman"> </a>
   </p>
 </details>
 
