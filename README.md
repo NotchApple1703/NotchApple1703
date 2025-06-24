@@ -20,13 +20,11 @@
 
   <p align="center">
     <h3>- Languages:</h3> 
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cpp,py,dart,typescript,rust"> </a>
+    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=python,rust,c++,dart,typescript"> </a>
     <h3>- Frameworks and Libraries:</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter"> </a>
+    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=flutter,slint"> </a>
     <h3>- Tools</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,mongodb"> </a>
-    <h3>- Operating Systems</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows,linux"> </a>
+    <img src="https://simpleskill.icons.workers.dev/svg?theme=dark&i=uv"> </a>
   </p>
 </details>
 
